@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdanDa
 - 👀 I’m interested in Philosophy and Woodworking
-- 🌱 I’m currently learning Full Stack JS and exploring Ruby on Rails
+- 🌱 I’m currently learning Full Stack JS and
 - 💞️ I’m looking to collaborate on a website I wanna develop
 - 📫 How to reach me: DM?
 
